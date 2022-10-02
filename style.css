@@ -1,0 +1,68 @@
+#baslık {
+
+color:rgb(195, 248, 255);
+font-size: 40px;
+font-family: 'Open Sans', sans-serif;
+text-align: center;
+}
+
+.nav_ortala {
+
+text-align:center;
+font-size: 25px;
+font-family: 'Open Sans', sans-serif;
+margin-right: 20px;;
+
+
+}
+
+
+a {
+
+  color: rgb(255, 30, 30);
+  text-decoration: none;
+margin-right: 10px;
+
+}
+
+body {
+
+background-color: rgb(254, 245, 237);;
+
+}
+
+p{
+
+  text-align: center;
+
+
+  
+}
+
+
+.ortala {
+
+margin-left: 480px;
+
+}
+
+
+.asagı {
+
+  text-align:center;
+font-size: 25px;
+font-family: 'Open Sans', sans-serif;
+margin-top : 500px;;
+
+}
+
+
+.tag {
+  color: red;
+  font-size: 30px;
+  margin: 15px 0;
+}
+
+main {
+  text-align: center;
+}
